@@ -1,0 +1,25 @@
+- 👋 Hi there, I’m @Noorulhuda-Usman
+- I'm a final-year Computer Science student passionate about technology and continuously learning new skills to grow in the field. I aim to leverage my knowledge and experience to contribute to innovative projects and make a positive impact.
+
+- 🔍 About Me
+- 🎓 Education: Final Year CS Student
+- 🌱 Currently Learning: HTML, expanding my knowledge in web development
+- 🔧 Technologies & Tools
+- Languages: C, Python, R
+- Frameworks/Libraries: NumPy, Pandas
+- Tools: Git, Visual Studio Code, PyCharm, Jupyter Notebook
+- 🛠️ Skills:
+- Basics of Python
+- Test Cases
+- WinForms
+- HTML (Learning)
+- 🚀 Interests
+- Tech Interests: Coding, software development, exploring new technologies
+- General Interests: Walking, art, music
+- 🤝 Collaboration
+-I am open to collaborating on projects, participating in hackathons, and contributing to open-source initiatives. Feel free to reach out if you have any exciting opportunities!
+
+- 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/noorulhuda-usman-8a42aa200)
+- [Instagram](https://www.instagram.com/noorulhudausman/)
+- [Pinterest](https://www.pinterest.com/tiny_truffle/)
