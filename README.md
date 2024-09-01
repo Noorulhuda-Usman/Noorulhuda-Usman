@@ -21,5 +21,3 @@
 
 - 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/noorulhuda-usman-8a42aa200)
-- [Instagram](https://www.instagram.com/noorulhudausman/)
-- [Pinterest](https://www.pinterest.com/tiny_truffle/)
