@@ -31,9 +31,6 @@
   
 - 🚀 Interests
 - Tech Interests: Coding, software development, exploring new technologies
-  
-- Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorulhuda-usman)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
 
@@ -43,4 +40,4 @@
 -I am open to collaborating on projects, participating in hackathons, and contributing to open-source initiatives. Feel free to reach out if you have any exciting opportunities!
 
 - 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/noorulhuda-usman-8a42aa200)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorulhuda-usman)
