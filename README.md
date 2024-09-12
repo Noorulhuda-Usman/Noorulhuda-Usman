@@ -31,7 +31,7 @@ I'm a final-year Computer Science student passionate about technology and commit
 - Python (Basics)
 - Test Case Writing
 - WinForms
-- HTML (Learning)
+- HTML, CSS (Learning)
 
 ## 🚀 Interests
 - **Tech Interests**: Coding, software development, exploring new technologies.
