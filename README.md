@@ -16,6 +16,9 @@ I'm a final-year Computer Science student passionate about technology and commit
 - Pandas
 
 ### Tools and Platforms:
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,rstudio,jupyternotebook,aws,postman,linkedin,instagram,gmail" />
+
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
