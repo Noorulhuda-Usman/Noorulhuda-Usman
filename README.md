@@ -6,14 +6,10 @@ I'm a final-year Computer Science student passionate about technology and commit
 - 🎓 **Education**: Final Year CS Student
 - 🌱 **Currently Learning**: HTML, CSS and expanding my knowledge in web development.
 
-## 🔧 Technologies & Tools
+## 🛠️ Technologies & Tools
 
 ### Languages:
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,c,r,html,css" />
 
 ### Frameworks/Libraries:
 - NumPy
