@@ -6,7 +6,7 @@ I'm a final-year Computer Science student passionate about technology and commit
 - 🎓 **Education**: Final Year CS Student
 - 🌱 **Currently Learning**: HTML, CSS and expanding my knowledge in web development.
 
-## 🛠️ Technologies & Tools
+## 🔧 Technologies & Tools
 
 ### Languages:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
