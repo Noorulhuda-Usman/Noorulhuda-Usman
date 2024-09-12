@@ -43,6 +43,7 @@ I’m open to collaborating on projects, hackathons, and contributing to open-so
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorulhuda-usman)
 
+## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorulhuda-usman&show_icons=true&theme=dark)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noorulhuda-usman&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorulhuda-usman&layout=compact&theme=dark)
