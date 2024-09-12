@@ -27,26 +27,18 @@ I'm a final-year Computer Science student passionate about technology and commit
 ![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
----
-
 ## 🛠️ Skills
 - Python (Basics)
 - Test Case Writing
 - WinForms
 - HTML (Learning)
 
----
-
 ## 🚀 Interests
 - **Tech Interests**: Coding, software development, exploring new technologies.
 - **General Interests**: Walking, art, music.
 
----
-
 ## 🤝 Collaboration
 I’m open to collaborating on projects, hackathons, and contributing to open-source initiatives. If you have any exciting opportunities, feel free to reach out!
-
----
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorulhuda-usman)
