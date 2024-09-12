@@ -1,14 +1,10 @@
 # 👋 Hi, I'm @Noorulhuda-Usman
 
----
-
 ## 🔍 About Me
 I'm a final-year Computer Science student passionate about technology and committed to continuously learning and growing in the field. I aim to leverage my skills and experience to contribute to innovative projects and make a meaningful impact.
 
 - 🎓 **Education**: Final Year CS Student
 - 🌱 **Currently Learning**: HTML and expanding my knowledge in web development.
-
----
 
 ## 🔧 Technologies & Tools
 
@@ -44,8 +40,6 @@ I'm a final-year Computer Science student passionate about technology and commit
 ## 🚀 Interests
 - **Tech Interests**: Coding, software development, exploring new technologies.
 - **General Interests**: Walking, art, music.
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noorulhuda-usman&theme=dark&hide_border=true)
 
 ---
 
