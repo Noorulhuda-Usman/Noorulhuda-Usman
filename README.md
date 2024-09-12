@@ -1,4 +1,4 @@
-# 👋 Hi, I'm @Noorulhuda-Usman
+#  Hi there👋, I'm Noorulhuda 
 
 ## 🔍 About Me
 I'm a final-year Computer Science student passionate about technology and committed to continuously learning and growing in the field. I aim to leverage my skills and experience to contribute to innovative projects and make a meaningful impact.
