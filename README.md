@@ -4,7 +4,7 @@
 I'm a final-year Computer Science student passionate about technology and committed to continuously learning and growing in the field. I aim to leverage my skills and experience to contribute to innovative projects and make a meaningful impact.
 
 - 🎓 **Education**: Final Year CS Student
-- 🌱 **Currently Learning**: HTML and expanding my knowledge in web development.
+- 🌱 **Currently Learning**: HTML, CSS and expanding my knowledge in web development.
 
 ## 🔧 Technologies & Tools
 
