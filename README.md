@@ -1,5 +1,7 @@
 # 👋 Hi, I'm @Noorulhuda-Usman
 
+![Profile Views](https://img.shields.io/badge/Views-1000-blue) <!-- Example Badge -->
+
 ---
 
 ## 🔍 About Me
