@@ -45,7 +45,7 @@ I'm a final-year Computer Science student passionate about technology and commit
 - **Tech Interests**: Coding, software development, exploring new technologies.
 - **General Interests**: Walking, art, music.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noorulhuda-usman&theme=dark&hide_border=true)
 
 ---
 
