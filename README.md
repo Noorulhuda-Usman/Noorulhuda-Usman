@@ -4,7 +4,7 @@
 I'm a final-year Computer Science student passionate about technology and committed to continuously learning and growing in the field. I aim to leverage my skills and experience to contribute to innovative projects and make a meaningful impact.
 
 - 🎓 **Education**: Final Year CS Student
-- 🌱 **Currently Learning**: HTML, CSS and expanding my knowledge in web development.
+- 🌱 **Currently Learning**: HTML, CSS, JavaScript and expanding my knowledge in web development.
 
 ## 🔧 Technologies & Tools
 
@@ -45,6 +45,5 @@ I’m open to collaborating on projects, hackathons, and contributing to open-so
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=noorulhuda-usman&show_icons=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noorulhuda-usman&theme=dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noorulhuda-usman&layout=compact&theme=dark)
 
