@@ -63,8 +63,6 @@ Looking forward to collaborating on impactful projects!
 ![Profile Views](https://komarev.com/ghpvc/?username=noorulhuda-usman&color=blue)  
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noorulhuda-usman&show_icons=true&theme=dark" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=noorulhuda-usman&show_icons=true&theme=dark" width="48%" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noorulhuda-usman&layout=compact&theme=dark" width="48%" />
 </div>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=noorulhuda-usman&theme=github-dark)
