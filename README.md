@@ -1,68 +1,34 @@
-# Hi there 👋, I'm Noorulhuda!
+Hi there 👋, I'm Noorulhuda!
+🔍 About Me
 
-## 🔍 About Me
-🎓 I'm a Computer Science graduate with a strong passion for technology and problem-solving. I love turning ideas into functional, user-friendly applications while ensuring quality and efficiency. I’m currently exploring web development (MERN stack) and software quality assurance (SQA).
+🎓 Computer Science graduate with a strong foundation in technology and problem-solving, now starting my professional career as a Trainee Officer at Askari Bank (NextFin Analysts Batch).
 
-💡 I'm continuously improving my skills and staying curious about emerging technologies.
+💼 Currently placed in the Treasury Division, where I’m gaining hands-on exposure to money market operations, FX settlements, reconciliation, and reporting.
 
-- 🌟 **Goal**: Keep learning, adapting, and discovering new ways to apply technology effectively.
+💡 Passionate about bridging finance and technology — applying my skills in data analysis, automation, and quality assurance to support smarter financial operations.
 
----
+🌟 Goal: Grow as a finance-tech professional, mastering treasury operations while keeping a strong edge in data and technology.
 
-## 🔧 Technologies & Tools
+🔧 Technologies & Tools
 
-### **Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+Core Training: Excel | SQL | Python | Power BI
 
-### **Frameworks & Libraries:**
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white) 
+Banking & Finance Exposure: Treasury Operations | FX & Money Market | RTGS | Reconciliation
 
-### **Dev Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Dev & QA Tools: Git | GitHub | Postman | VS Code
 
-### **Databases:**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+🛠️ Skills
 
----
+Data Analytics: Dashboards (Power BI), Advanced Excel, SQL
 
-## 🛠️ Skills
-- **Testing & QA:** Test Case Writing, Manual Testing
+Treasury & Banking: Back-office operations, settlements, reconciliation
 
----
+Software QA: Test case writing, manual testing
 
-## 🚀 Interests
-I love experimenting with new frameworks, debugging complex issues, and optimizing workflows for better efficiency.
+Programming: Python for automation & data handling
 
----
+🌐 Connect with Me
 
-## 🤝 Collaboration
-Open to working on:
-- Web development projects  
-- Manual testing & quality assurance  
-- Open-source contributions  
+📈 GitHub Stats
 
-Looking forward to collaborating on impactful projects!
-
----
-
-## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noorulhuda-usman)  
-[![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://app.netlify.com/teams/noorulhuda-usman/sites)
-
----
-
-## 📈 GitHub Stats
-
-![Profile Views](https://komarev.com/ghpvc/?username=noorulhuda-usman&color=blue)  
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noorulhuda-usman&show_icons=true&theme=dark" width="50%" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noorulhuda-usman&layout=compact&theme=dark" width="42%" />
-</div>
+<div align="center"> <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=noorulhuda-usman&show_icons=true&theme=dark" width="50%" /> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noorulhuda-usman&layout=compact&theme=dark" width="42%" /> </div>
